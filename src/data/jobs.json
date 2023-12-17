@@ -1,0 +1,90 @@
+[
+    {
+        "id" : 1,
+        "company" : "Flipkart",
+        "date": "Oct 2021 - Present",
+        "desc": [
+            {
+                "id": 1,
+                "name": "Member of Fulfilment Services Group (FSG) - Flipkart's supply chain division, currently working on re-architecture, scaling and optimising warehouse and inventory management services"
+            },
+            {
+                "id": 2,
+                "name": "Working on migrating monolithic warehouse management system application into microservices using Domain driven design principles."
+            }
+        ],
+        "position": "Software Development Engineer II"
+    },
+    {
+        "id" : 2,
+        "company" : "Quikr",
+        "date": "Sep 2019 - Oct 2021",
+        "desc": [
+            {
+                "id": 1,
+                "name": "Involved in design and development of microservices for the E-Commerce vertical of Quikr : Quikr Bazaar and Zefo"
+            },
+            {
+                "id": 2,
+                "name": "Re-designed and developed Zefo wallet (promotional closed wallet), integrating features like referral bonus and promotional cash-backs"
+            },
+            {
+                "id": 3,
+                "name" : "Worked on unifying the warehouse and finance flows of Quikr Bazaar and acquired entity Zefo. Direct cost reduction of 84% achieved"
+            },
+            {
+                "id": 4,
+                "name" : "Migrated about 1 Million Zefo users to Quikr platform, and developed single sign-on feature for users in Zefo using Quikr account"
+            },
+            {
+                "id": 5,
+                "name" : "Engineered new payment flow for Zefo. Improved the user experience and increased the payment conversion rate by 33%"
+            },
+            {
+                "id": 6,
+                "name" : "Developed a custom margin computation system for Quikr and Zefo"
+            },
+            {
+                "id" : 7,
+                "name" : "Developed various promotional features including Full COD (0 upfront payment) feature, Zero EMI feature, third party warranties etc"
+            }
+        ],
+        "position": "Senior Software Engineer"
+    },
+    {
+        "id" : 3,
+        "company" : "Tradub",
+        "date": "Sep 2018 - Aug 2019",
+        "desc": [
+            {
+                "id": 1,
+                "name": "Developed a managed marketplace website called Tradub for buying and selling industrial goods and services"
+            },
+            {
+                "id": 2,
+                "name": "Engineered web based tools for sellers for internal operations. Automated process including inventory data categorisation and stock maintenance"
+            },
+            {
+                "id": 3,
+                "name" : "Built applications and pipelines to structure stock and revenue data of different manufactures in different categories"
+            }
+        ],
+        "position": "Co-founder, Engineer"
+    },
+    {
+        "id" : 4,
+        "company" : "Oracle Financial Services Software Limited",
+        "date": "Nov 2016 - Sep 2018",
+        "desc": [
+            {
+                "id": 1,
+                "name": "Application Developer (IC-1) in Oracle Financial Services Software Limited in the Flexcube Development Group"
+            },
+            {
+                "id": 2,
+                "name": "Associated with the Japan Cluster Support team, the responsibilities included providing implementation support for the core banking software 'Flexcube' which involved development of new enhancements, testing & fixing bugs"
+            }
+        ],
+        "position": "Application Developer"
+    }   
+]

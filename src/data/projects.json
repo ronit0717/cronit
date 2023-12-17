@@ -1,0 +1,46 @@
+[
+    {
+        "id" : 1,
+        "title" : "Inventory Management Software",
+        "description" : "Developed application with features including product creation and categorisation, stock creation, location and store creation and order management.",
+        "stack" : [
+            {
+                "id" : 1,
+                "name" : "Spring Boot (Java)"
+            },
+            {
+                "id" : 2,
+                "name" : "React JS (Javascript)"
+            },
+            {
+                "id" : 3,
+                "name" : "MySQL (Database)  "
+            }
+        ],
+        "image" : "projects-1.jpg",
+        "github" : "https://github.com/ronit0717/pofo_demo",
+        "link" : "https://github.com/ronit0717/leo_demo"
+    },
+    {
+        "id" : 2,
+        "title" : "GPT Powered Chatbot",
+        "description" : "Created a chatbot in the form of a Google Chrome extension that summarises a Google Meet for the users. The chatbot is powered by OpenAI's GPT 3 and uses libraries like Llama Index and Langchain. The chatbot is trained on the transcript of the Google Meet recording and answers the user's questions in the context of the meeting.",
+        "stack" : [
+            {
+                "id" : 1,
+                "name" : "Python"
+            },
+            {
+                "id" : 2,
+                "name" : "Vanilla Javascript"
+            },
+            {
+                "id" : 3,
+                "name" : "HTML/CSS"
+            }
+        ],
+        "image" : "projects-2.jpg",
+        "github" : null,
+        "link" : null
+    }
+]
