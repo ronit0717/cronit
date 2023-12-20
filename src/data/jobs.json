@@ -6,11 +6,19 @@
         "desc": [
             {
                 "id": 1,
-                "name": "Member of Fulfilment Services Group (FSG) - Flipkart's supply chain division, currently working on re-architecture, scaling and optimising warehouse and inventory management services"
+                "name": "Working in Fulfilment Services Group (FSG) org - Flipkart's supply chain division"
             },
             {
                 "id": 2,
-                "name": "Working on migrating monolithic warehouse management system application into microservices using Domain driven design principles."
+                "name": "Member of the technical leadership group in the Warehouse and inventory management team (Assets)"
+            },
+            {
+                "id": 3,
+                "name" : "Working on re-architecture, scaling and optimising core warehouse and inventory management services"
+            },
+            {
+                "id": 4,
+                "name" : "Migrating from a decade-old monolithic architecture to microservice architecture, adhering to Domain Driven Design (DDD) principles"
             }
         ],
         "position": "Software Development Engineer II"
